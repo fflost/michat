@@ -1,0 +1,13 @@
+{
+    "name": "lostme/michat",
+    "description": "xiaomi chat PHP SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lostme",
+            "email": "feifan90@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
